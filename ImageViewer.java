@@ -255,6 +255,10 @@ public class ImageViewer
         filterList.add(new GrayScaleFilter("Grayscale"));
         filterList.add(new EdgeFilter("Edge Detection"));
         filterList.add(new FishEyeFilter("Fish Eye"));
+        filterList.add(new MidnightFilter("Midnight"));
+        filterList.add(new SwampFilter("Swamp"));
+        filterList.add(new WarmthFilter("Warm it Up!"));
+        
        
         return filterList;
     }
@@ -366,7 +370,7 @@ public class ImageViewer
         for(Filter filter : filters) {
             item = new JMenuItem(filter.getName());
             item.addActionListener(e -> applyFilter(filter));
-             menu.add(item);
+            menu.add(item);
          }
 
         // create the Help menu

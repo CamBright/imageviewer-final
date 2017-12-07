@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MidnightFilter
+comment0.text=\n\ Write\ a\ description\ of\ class\ BlueFilter\ here.\n\n\ @author\ Cameron\ Brightwell\n\ @version\ 12/6/17\n
+comment1.params=name
+comment1.target=MidnightFilter(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ EdgeFilter.\n\ @param\ name\ The\ name\ of\ the\ filter.\n
+comment2.params=image
+comment2.target=void\ apply(OFImage)
+comment2.text=\n\ Apply\ the\ filter\ to\ any\ image.\n\ \n\ @param\ \ image\ \ The\ image\ that\ this\ filter\ will\ alter.\n
+numComments=3
