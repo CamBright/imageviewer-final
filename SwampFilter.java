@@ -20,7 +20,7 @@ public class SwampFilter extends Filter
     }
 
     /**
-     * Apply the filter to any image.
+     * Apply the Swamp filter to any image.
      * 
      * @param  image  The image that this filter will alter.
      */
