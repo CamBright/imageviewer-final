@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=SwampFilter
-comment0.text=\n\ Write\ a\ description\ of\ class\ BlueFilter\ here.\n\n\ @author\ Cameron\ Brightwell\n\ @version\ 12/6/17\n
+comment0.text=\n\ This\ filter\ will\ take\ each\ pixel\ of\ an\ image\ and\ enhance\ the\ color\ green\ value,\ and\ decrease\ the\ red\ and\ blue\ value.\n\n\ @author\ Cameron\ Brightwell\n\ @version\ 12/6/17\n
 comment1.params=name
 comment1.target=SwampFilter(java.lang.String)
 comment1.text=\n\ Constructor\ for\ objects\ of\ class\ EdgeFilter.\n\ @param\ name\ The\ name\ of\ the\ filter.\n

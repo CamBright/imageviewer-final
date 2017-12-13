@@ -3,7 +3,7 @@ import java.awt.Color;
 import java.util.List;
 import java.util.ArrayList;
 /**
- * Write a description of class BlueFilter here.
+ * This filter will take each pixel of an image and enhance the color red value, and decrease the blue and green value.
  *
  * @author Cameron Brightwell
  * @version 12/6/17
